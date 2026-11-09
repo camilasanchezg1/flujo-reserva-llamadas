@@ -1,0 +1,5 @@
+id,contacto,correo,zona_horaria,fecha_hora,responsable,estado,asistencia,notas,proximo_paso
+001,Cliente Ficticio A,cliente.a@ejemplo.com,America/Bogota,2026-11-12 10:00,Comercial 1,Confirmada,,Interesado en demo,Enviar recordatorio 11-nov
+002,Cliente Ficticio B,cliente.b@ejemplo.com,America/Mexico_City,2026-11-12 11:30,Comercial 2,Asistió,Sí,Pide propuesta,Enviar propuesta en 48 h
+003,Cliente Ficticio C,cliente.c@ejemplo.com,America/Santiago,2026-11-11 15:00,Comercial 1,Reprogramada,No,No se conectó,Ofrecer 2 nuevos horarios
+004,Cliente Ficticio D,cliente.d@ejemplo.com,America/Lima,2026-11-13 09:00,Comercial 3,Agendada,,Esperando confirmación,Recordatorio si no responde en 24 h
